@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "title": "SmartCapture Demo",
+    "description": "AI-powered smart capture and data extraction demonstration showcasing automated document processing capabilities.",
+    "category": "AI & Automation",
+    "duration": "3:45",
+    "thumbnail": null,
+    "videoUrl": "/videos/SmartCapture.mp4",
+    "tags": ["AI", "Document Processing", "Automation", "OCR"],
+    "createdAt": "2024-12-01T00:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "title": "InsightIQ Analytics",
+    "description": "Comprehensive analytics dashboard demo featuring real-time insights and intelligent data visualization.",
+    "category": "Analytics & Insights",
+    "duration": "5:20",
+    "thumbnail": null,
+    "videoUrl": "/videos/InsightIQ.mp4",
+    "tags": ["Analytics", "Dashboard", "Data Visualization", "BI"],
+    "createdAt": "2024-12-11T00:00:00.000Z"
+  }
+]
+

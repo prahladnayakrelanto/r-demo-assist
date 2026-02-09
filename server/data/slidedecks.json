@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "title": "Data & Analytics Case Studies",
+    "description": "Comprehensive collection of Data & Analytics case studies showcasing AI-powered business intelligence, predictive analytics, demand forecasting, and data-driven decision making solutions for enterprises.",
+    "keywords": ["data", "analytics", "case study", "business intelligence", "BI", "predictive analytics", "forecasting", "demand planning", "data science", "visualization", "insights", "dashboards", "KPIs", "metrics", "reporting"],
+    "category": "Analytics & Insights",
+    "slides": 16,
+    "author": "AI First Lab",
+    "date": "2025-01-06",
+    "fileUrl": "/presentations/Data-Analytics-Case-Studies.pptx",
+    "slidesFolder": "Repository-Data-and-Analytics--Case-Studies",
+    "createdAt": "2025-01-06T00:00:00.000Z",
+    "updatedAt": "2025-01-06T00:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "title": "AI Case Studies",
+    "description": "Repository of AI implementation case studies covering machine learning, generative AI, natural language processing, computer vision, and intelligent automation solutions across various industries.",
+    "keywords": ["AI", "artificial intelligence", "machine learning", "ML", "generative AI", "GenAI", "LLM", "NLP", "natural language processing", "automation", "deep learning", "neural networks", "case study", "enterprise AI"],
+    "category": "Enterprise Solutions",
+    "slides": 15,
+    "author": "AI First Lab",
+    "date": "2025-01-06",
+    "fileUrl": "/presentations/AI-Case-Studies.pptx",
+    "slidesFolder": "Repository-AI-Case-Studies-1",
+    "createdAt": "2025-01-06T00:00:00.000Z",
+    "updatedAt": "2025-01-06T00:00:00.000Z"
+  }
+]
+

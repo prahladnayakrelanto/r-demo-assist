@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "name": "SalesAssist (2024)",
+    "link": "http://13.233.75.226:5174/",
+    "description": "Gen AI powered integration of existing workflows to deliver personalized recommendations and actionable insights",
+    "category": "Sales & Revenue",
+    "createdAt": "2025-01-06T00:00:00.000Z",
+    "updatedAt": "2026-01-08T02:50:20.566Z",
+    "hidden": true
+  },
+  {
+    "id": 2,
+    "name": "TrendAssist",
+    "link": "https://demand-planning-ui-prod.aifirstlabs-relanto.com/",
+    "description": "Demand planning with time series prediction using mobile data for accurate forecasting",
+    "category": "Planning & Forecasting",
+    "createdAt": "2025-01-06T00:00:00.000Z",
+    "updatedAt": "2026-01-09T23:49:13.134Z",
+    "hidden": false
+  },
+  {
+    "id": 3,
+    "name": "PartnerAssist",
+    "link": "https://partner-finder-ui-prod.aifirstlabs-relanto.com/",
+    "description": "Intelligent partner matching based on performance metrics and RFP analysis",
+    "category": "Partnership & Collaboration",
+    "createdAt": "2025-01-06T00:00:00.000Z",
+    "updatedAt": "2025-01-06T00:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "name": "LoanBook",
+    "link": "https://loanbook-ui-prod.aifirstlabs-relanto.com/",
+    "description": "Transform unstructured loan documents into structured insights with AI extraction",
+    "category": "Document Intelligence",
+    "createdAt": "2025-01-06T00:00:00.000Z",
+    "updatedAt": "2025-01-06T00:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "name": "Theatre Footfall",
+    "link": "http://13.233.75.226:8088/",
+    "description": "Time series analytics for footfall analysis and prediction to optimize operations",
+    "category": "Analytics & Insights",
+    "createdAt": "2025-01-06T00:00:00.000Z",
+    "updatedAt": "2025-01-06T00:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "name": "Cluster & Opportunity Visualization",
+    "link": "http://13.233.75.226:3000/",
+    "description": "Visual analytics for cluster identification and opportunity mapping",
+    "category": "Analytics & Insights",
+    "createdAt": "2025-01-06T00:00:00.000Z",
+    "updatedAt": "2025-01-06T00:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "name": "Anaplan Embedded Model",
+    "link": "http://13.233.75.226:5000",
+    "description": "Enterprise planning platform for intelligent forecasting and scenario analysis",
+    "category": "Planning & Forecasting",
+    "createdAt": "2025-01-06T00:00:00.000Z",
+    "updatedAt": "2025-01-06T00:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "name": "SalesAssist (New 2025)",
+    "link": "https://salesone-ui-prod.aifirstlabs-relanto.com/",
+    "description": "Next-gen revenue intelligence with real-time insights and smarter forecasting",
+    "category": "Sales & Revenue",
+    "createdAt": "2025-01-06T00:00:00.000Z",
+    "updatedAt": "2025-01-06T00:00:00.000Z"
+  },
+  {
+    "id": 9,
+    "name": "FinAssist",
+    "link": "https://fincopilot-ui-prod.aifirstlabs-relanto.com/",
+    "description": "Gen-AI powered financial securities investment analysis for smarter decisions",
+    "category": "Financial Services",
+    "createdAt": "2025-01-06T00:00:00.000Z",
+    "updatedAt": "2025-01-06T00:00:00.000Z"
+  },
+  {
+    "id": 10,
+    "name": "InfraAssist",
+    "link": "https://infragpt-ui-prod.aifirstlabs-relanto.com/",
+    "description": "AI-powered cloud infrastructure usage analytics and intelligent query system",
+    "category": "Infrastructure & Cloud",
+    "createdAt": "2025-01-06T00:00:00.000Z",
+    "updatedAt": "2025-01-06T00:00:00.000Z"
+  },
+  {
+    "id": 11,
+    "name": "CaseAssist (Bank Balance)",
+    "link": "https://caseassist-ui-prod.aifirstlabs-relanto.com/",
+    "description": "Autonomous case resolution for bank balance queries with unified knowledge",
+    "category": "Customer Support",
+    "createdAt": "2025-01-06T00:00:00.000Z",
+    "updatedAt": "2025-01-06T00:00:00.000Z"
+  },
+  {
+    "id": 12,
+    "name": "CaseAssist (Credit Card)",
+    "link": "https://caseassist2.0-ui-prod.aifirstlabs-relanto.com/",
+    "description": "Intelligent agent for credit card upgrade details and support automation",
+    "category": "Customer Support",
+    "createdAt": "2025-01-06T00:00:00.000Z",
+    "updatedAt": "2025-01-06T00:00:00.000Z"
+  },
+  {
+    "id": 13,
+    "name": "LiveMeasure",
+    "link": "https://livemeasure-ui-prod.aifirstlabs-relanto.com",
+    "description": "GroundTruth verification and observability for AI model performance monitoring",
+    "category": "Testing & Quality",
+    "createdAt": "2025-01-06T00:00:00.000Z",
+    "updatedAt": "2025-01-06T00:00:00.000Z"
+  }
+]

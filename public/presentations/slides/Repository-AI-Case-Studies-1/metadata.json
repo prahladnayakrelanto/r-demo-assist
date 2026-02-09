@@ -1,0 +1,40 @@
+{
+  "name": "Repository-AI-Case-Studies 1",
+  "folder": "Repository-AI-Case-Studies-1",
+  "slideCount": 15,
+  "slides": [
+    "slide_001.png",
+    "slide_002.png",
+    "slide_003.png",
+    "slide_004.png",
+    "slide_005.png",
+    "slide_006.png",
+    "slide_007.png",
+    "slide_008.png",
+    "slide_009.png",
+    "slide_010.png",
+    "slide_011.png",
+    "slide_012.png",
+    "slide_013.png",
+    "slide_014.png",
+    "slide_015.png"
+  ],
+  "slidePptx": [
+    "slide_001.pptx",
+    "slide_002.pptx",
+    "slide_003.pptx",
+    "slide_004.pptx",
+    "slide_005.pptx",
+    "slide_006.pptx",
+    "slide_007.pptx",
+    "slide_008.pptx",
+    "slide_009.pptx",
+    "slide_010.pptx",
+    "slide_011.pptx",
+    "slide_012.pptx",
+    "slide_013.pptx",
+    "slide_014.pptx",
+    "slide_015.pptx"
+  ],
+  "hasContent": true
+}
